@@ -83,6 +83,20 @@ title: Justice internationale pour la Palestine
 - 2025-01-06 Intervention Irlande
 - 2025-01-10 Intervention Cuba
 - 2025-01-30 Intervention Bélize
+- 2025-04-03 Retrait requête du Nicaragua ???
+- 2025-04-14 **Prolongagtion délai contre-mémoire 12 janvier 2026**
+- 2025-09-17 Intervention du Brésil
+- 2025-10-20 **Prolongagtion délai contre-mémoire au 12 mars 2026**
+- 2025-10-29 Intervention des Comores
+- 2025-12-23 Déclaration d'intervention de la Belgique
+- 2026-03-03 Déclaration d'intervention du Paraguay
+- 2026-03-11 Déclaration d'intervention du Pays-bas
+- 2026-03-11 Déclaration d'intervention de l'Islande
+- 2026-03-12 Déclaration d'intervention de la Namibia
+- 2026-03-12 Déclaration d'intervention des États-Unis d'Amérique
+- 2026-03-12 Déclaration d'intervention de la Hongrie
+- 2026-03-12 Déclaration d'intervention de Fidji
+
 - 2024-07-28 (Date butoir) Dépôt du contre-mémoire d'Israël
 
 # Sources
@@ -100,3 +114,9 @@ title: Justice internationale pour la Palestine
 - 2024-12-10: Publication initiale
 - 2025-04-01: Mise à jour des interventions à la CIJ, détaille des mesures
   conservatoires et fin poursuite contre Mohammed Deïf.
+
+---
+
+Palestine dans le contexte de la procédure consultative portant sur la question
+posée par l’Assemblée générale des Nations Unies dans sa résolution 79/232 du 19
+décembre 2024 ;
