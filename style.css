@@ -80,24 +80,16 @@ p {
 			}
 		}
 
-		&.event {
-			background: #3885f4;
-			background: #2e9959;
-		}
-
 		&.petition {
 			background: #f9c900;
 		}
 	}
 }
 
-.articles {
-
-	.article {
-		display: table;
-		margin: 2ex;
-		background: #f91616;
-	}
+.article {
+	display: table;
+	margin: 2ex;
+	background: #f91616;
 }
 
 .link {

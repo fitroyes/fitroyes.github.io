@@ -22,7 +22,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generation
-        run: deno run --allow-write=public --allow-read=. main.ts
+        run: deno run --allow-env --allow-write=public --allow-read=. main.ts
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
