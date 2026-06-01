@@ -1,6 +1,6 @@
----
-title: Justice internationale pour la Palestine
----
++++
+title = "Justice internationale pour la Palestine"
++++
 
 # Résumé
 

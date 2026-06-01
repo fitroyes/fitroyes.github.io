@@ -1,0 +1,12 @@
+{
+	"imports": {
+		"@deno/gfm": "jsr:@deno/gfm@^0.12.0",
+		"@huguesguilleus/blogger": "jsr:@huguesguilleus/blogger@^0.1.0",
+		"@std/fs": "jsr:@std/fs@^1.0.24",
+		"@std/path": "jsr:@std/path@^1.1.5",
+		"@std/toml": "jsr:@std/toml@^1.0.11"
+	},
+	"fmt": {
+		"useTabs": true
+	}
+}

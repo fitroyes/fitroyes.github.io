@@ -1,127 +1,119 @@
-/* base */
+body {
+	font-size: large;
+	margin: 0;
+	font-family: ConfigSemiBold, sans-serif;
+}
+
+@font-face {
+	font-family: ConfigSemiBold;
+	src: url(/PublicSans-SemiBold.ttf);
+}
+
+header {
+	background: black;
+	color: #FFFCF4;
+	padding: 2ex;
+
+	h1 {
+		margin: 0;
+		font-size: 400%;
+	}
+
+	#home {
+		text-decoration: none;
+		display: inline-block;
+	}
+}
+
+main {
+	margin: auto;
+	padding: 2ex;
+	max-width: 70ex;
+}
+
+img {
+	width: 100%;
+}
 
 a {
+	color: #3885f4;
 	color: inherit;
-	text-decoration: underline #3885f4;
-}
 
-a:hover {
-	background: #3885f4;
-}
-
-h1,
-h2,
-h3 {
-	font-family: "Public Sans", sans-serif;
-	font-weight: 800;
-}
-
-p,
-li,
-tr,
-th {
-	text-align: justify;
+	&:hover {
+		color: black;
+		background-color: #3885f4;
+	}
 }
 
 p {
 	text-indent: 3ex;
+	text-align: justify;
 }
 
-li>p {
-	text-indent: 0;
-}
-
-ul {
-	list-style: "— ";
-	padding-left: 3ex;
-}
-
-li::marker {
-	color: #7b13d6;
-}
-
-blockquote {
-	border-left: .5ex #7b13d6 solid;
-	margin: 0;
-	padding-left: 1ex;
-	font-style: italic;
-}
-
-table {
-	width: 100%;
-	border-collapse: collapse;
-	border: .3ex #AAA solid;
-	margin-bottom: 2ex;
-}
-
-th {
-	background: #DDD;
-}
-
-th,
-td {
-	padding: .1ex .3ex;
-	border: .1ex #AAA solid;
-}
-
-img {
-	display: block;
-	width: 100%;
-}
-
-/* specific */
-
-body {
-	margin: 0 auto;
-	max-width: 70ex;
-	padding: 0 1ex;
-
-	font-family: "Gowun Batang", serif;
-	font-weight: 400;
-	font-style: normal;
-	font-size: large;
-
+.blocks {
 	display: flex;
-	flex-direction: column;
-	height: 100vh;
-}
-
-header>h1 {
-	color: #7b13d6;
-	text-decoration: underline .2ex;
-}
-
-a.home {
-	text-decoration: none;
-}
-
-footer {
-	margin-top: auto;
+	flex-wrap: wrap;
+	gap: 2ex;
 	padding: 1ex 2ex;
-	background: #7b13d6;
-	color: white;
+
+	.social {
+		background: #3885f4;
+	}
+
+	.bl {
+		margin: 0;
+		width: 50ex;
+		padding: 2ex;
+
+		.tag {
+			font-size: small;
+		}
+
+		.lb {
+			padding: 1ex 2ex;
+			font-weight: bold;
+			border: solid 3px;
+			border-radius: 1ex;
+
+			hr {
+				border: solid 1.5px black;
+			}
+		}
+
+		&.event {
+			background: #3885f4;
+			background: #2e9959;
+		}
+
+		&.petition {
+			background: #f9c900;
+		}
+	}
+}
+
+.articles {
+
+	.article {
+		display: table;
+		margin: 2ex;
+		background: #f91616;
+	}
+}
+
+.link {
+	text-decoration: none;
 	font-weight: bold;
-	text-align: center;
+	padding: 1ex 2ex;
+	color: black;
+
+	&:hover {
+		box-shadow: 0 0 2ex 1ex grey;
+	}
 }
 
-ul#links {
-	margin-top: 3ex;
-	border: solid .3ex #7b13d6;
-	list-style: none;
-	padding: .3ex;
-}
-
-#extLinks {
-	display: flex;
-	width: 100%;
-	flex-direction: row;
-	justify-content: center;
-	gap: 2em;
-	margin-top: 1ex;
-}
-
-#extLinks svg {
-	display: block;
-	width: 2em;
-	fill: white;
+h1.hb {
+	display: table;
+	padding: 1ex 2ex;
+	background: black;
+	color: white;
 }

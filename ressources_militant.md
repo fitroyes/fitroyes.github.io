@@ -1,6 +1,6 @@
----
-title: Ressources documentaires pour (jeune) militant·e insoumis·e
----
++++
+title = "Ressources documentaires pour (jeune) militant·e insoumis·e"
++++
 
 _Liste de ressources site web, vidéo, textes... pour militant·e insoumis·e. Le
 but est pas de tout lire mais d'avoir une liste dans laquelle piocher._
