@@ -26,7 +26,7 @@ copyStatic("404.html");
 for await (const { path } of walk(".", { exts: [".pdf", ".webp", ".ttf"] })) {
 	await copyStatic(path);
 }
-Deno.writeTextFile("robots.txt", "User-agent: *\nAllow: /\n");
+Deno.writeTextFile("public/robots.txt", "User-agent: *\nAllow: /\n");
 
 // Render markdown files
 for await (const { path } of walk(".", { exts: [".md"] })) {
