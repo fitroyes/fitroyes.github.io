@@ -109,14 +109,14 @@ Deno.writeTextFile(
 		html(
 			"div.blocks",
 			social("Mail", "mailto:troyesinsoumise@gmail.com"),
-			social("Instagram IJ", "https://instagram.com/ji_troyes"),
-			social("GitHub", "https://github.com/jitroyes/"), //////////////////////////
+			social("Instagram IJ", "https://instagram.com/fi_troyes"),
+			social("GitHub", "https://github.com/fitroyes/"),
 			social("YouTube", "https://www.youtube.com/@JITroyes"),
 		),
 		html(
 			"div.blocks",
 			social(
-				"GA Union populaire de Troyes",
+				"L'Union populaire de Troyes",
 				"https://actionpopulaire.fr/groupes/39a6ca83-aa82-4f8a-b743-1e00aaf38b54/",
 			),
 			social(
@@ -130,6 +130,18 @@ Deno.writeTextFile(
 			social(
 				"Chartreux insoumis",
 				"https://actionpopulaire.fr/groupes/951f76a4-1be7-4f91-88f4-b5086f439b2e/",
+			),
+			social(
+				"Sainte-Savine - Troyes Nord-Ouest",
+				"https://actionpopulaire.fr/groupes/f2693390-b07d-4e95-9ab1-5b2d990221db/",
+			),
+			social(
+				"Saint-Julien-les-Villas",
+				"https://actionpopulaire.fr/groupes/835100c0-eb67-4332-bc05-e2ba025d35cc/",
+			),
+			social(
+				"Sainte-Savine - Troyes Nord-Ouest",
+				"https://actionpopulaire.fr/groupes/f2693390-b07d-4e95-9ab1-5b2d990221db/",
 			),
 		),
 		html("h1.hb", "Les pétitions"),

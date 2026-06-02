@@ -2,6 +2,7 @@ body {
 	font-size: large;
 	margin: 0;
 	font-family: ConfigSemiBold, sans-serif;
+	background: #FFFCF4;
 }
 
 @font-face {
@@ -11,7 +12,7 @@ body {
 
 header {
 	background: black;
-	color: #FFFCF4;
+	color: white;
 	padding: 2ex;
 
 	h1 {
