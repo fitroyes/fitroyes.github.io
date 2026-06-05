@@ -4,15 +4,14 @@ title = "Organigramme de LFI au local"
 
 # Liens
 
-![Organiggrame](./lfi_local.2026-03.webp)
+![Organiggrame](./lfi_local.2026-06-05.webp)
 
-[Fichier PDF et de la documentation pour militants](./lfi_local.2026-03.pdf)
+[Fichier PDF et de la documentation pour militants](./lfi_local.2026-06-05.pdf)
 
 # La France insoumise
 
 - [LFI comment ça marche?](https://lafranceinsoumise.fr/lfi-comment-ca-marche/)
 - [Les principes de la France insoumise](https://lafranceinsoumise.fr/principes/)
-  ou [en PDF format A4](./principes.pdf)
 - [Charte des groupes d’action de la France insoumise](https://lafranceinsoumise.fr/groupes-action/charte-groupes-dappui-de-france-insoumise/)
 - [Charte des boucles départementales](https://lafranceinsoumise.fr/charte-des-boucles-departementales/)
 - [Livret d'accueil](https://infos.actionpopulaire.fr/wp-content/uploads/2024/03/livret-accueil.pdf)
