@@ -99,6 +99,9 @@ Deno.writeTextFile(
 			html("link rel=icon href=/favicon.webp type=image/webp"),
 			html("title", "LFI Troyes"),
 			html("style", { h: STYLE }),
+			html(
+				'meta name="google-site-verification" content="FqYntXZY5LcPR-dAONHhpErCyRHBeoRvF_UIuYGZ4Rc"',
+			),
 		),
 		html(
 			"header",
