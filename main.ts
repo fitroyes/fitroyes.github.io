@@ -165,6 +165,14 @@ Deno.writeTextFile(
 					"https://www.service-public.gouv.fr/particuliers/vosdroits/R51788",
 				]),
 			),
+			html(
+				"div.bl.petition",
+				html("h3", "Soutenez la candidature de Jean-Luc Mélenchon"),
+				notes([
+					"Notre force c’est notre nombre! Nous avons besoin de vos partages pour atteindre notre objectif de parrainages et lancer la campagne insoumise. Partout où vous le pouvez, partagez notre appel!",
+					"https://melenchon2027.fr/",
+				]),
+			),
 		),
 		html("h1.hb", "Les articles"),
 		html(
