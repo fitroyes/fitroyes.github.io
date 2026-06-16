@@ -4,9 +4,9 @@ title = "Organigramme de LFI au local"
 
 # Liens
 
-![Organiggrame](./lfi_local.2026-06-05.webp)
+![Organiggrame](./lfi_local.2026-06-16.webp)
 
-[Fichier PDF et de la documentation pour militants](./lfi_local.2026-06-05.pdf)
+[Fichier PDF et de la documentation pour militants](./lfi_local.2026-06-16.pdf)
 
 # La France insoumise
 
