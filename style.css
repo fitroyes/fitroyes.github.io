@@ -11,7 +11,7 @@ body {
 }
 
 header {
-	background: black;
+	background: #212320;
 	color: white;
 	padding: 2ex;
 
@@ -41,6 +41,7 @@ a {
 	color: inherit;
 
 	&:hover {
+		box-shadow: 0 0 2ex 1ex grey;
 		color: black;
 		background-color: #3885f4;
 	}
@@ -57,56 +58,48 @@ p {
 	gap: 2ex;
 	padding: 1ex 2ex;
 
-	.social {
-		background: #3885f4;
-	}
-
 	.bl {
-		margin: 0;
 		width: 50ex;
 		padding: 2ex;
+	}
+}
 
-		.tag {
-			font-size: small;
-		}
+/* For the home page */
 
-		.lb {
-			padding: 1ex 2ex;
-			font-weight: bold;
-			border: solid 3px;
-			border-radius: 1ex;
+.link {
+	text-decoration: none;
+	font-weight: bold;
+	padding: 1ex 2ex;
+	color: white;
+}
 
-			hr {
-				border: solid 1.5px black;
-			}
-		}
+.social {
+	background: #4C0297;
+}
 
-		&.petition {
-			background: #f9c900;
-		}
+.petition {
+	width: 50ex;
+	padding: 2ex;
+	background: #D1271C;
+
+	h3 {
+		margin-top: 0;
 	}
 }
 
 .article {
 	display: table;
 	margin: 2ex;
-	background: #f91616;
+	background: #4C0297;
 }
 
-.link {
-	text-decoration: none;
-	font-weight: bold;
-	padding: 1ex 2ex;
-	color: black;
-
-	&:hover {
-		box-shadow: 0 0 2ex 1ex grey;
-	}
+.ga {
+	background: #D1271C;
 }
 
 h1.hb {
 	display: table;
 	padding: 1ex 2ex;
-	background: black;
+	background: #212320;
 	color: white;
 }
